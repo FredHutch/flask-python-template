@@ -6,6 +6,8 @@ Supported project types are detailed in the following sections, and include both
 
 Currently, only Python templates are supported. However, a similar framework is anticipated for R development in the near future.
 
+For more information on Flask applications, please see [this repository](https://github.com/FredHutch/scicomp_flask_examples) with examples from SciComp.
+
 #### Usage
 
 It is recommended to clone this repository to your local machine, then copy and rename the folder for the project type you wish to develop:
